@@ -1,0 +1,23 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "This is for practising Unit Testing using Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bushmusi/unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bushmusi/unit-test/issues"
+  },
+  "homepage": "https://github.com/bushmusi/unit-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
