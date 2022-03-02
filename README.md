@@ -1,9 +1,8 @@
-# Todo List
+# Unit Testing Practice
 This is for practising Unit Testing using Javascript. 
 
 In this project,  I write a few practical tests for JavaScript functions using the Jest library. I have followed the AAA pattern to make the tests easier for other developers to read and understand. I also try to use the TDD approach in practice..
 
-### [Live Demo Link](https://bushmusi.github.io/todo-list/)
 
 ## Built With
 
