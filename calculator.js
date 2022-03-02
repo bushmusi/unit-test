@@ -21,10 +21,4 @@ class Calculator {
     }
 }
 
-const calc = new Calculator(12,3);
-console.log(calc.add());
-console.log(calc.subtract());
-console.log(calc.multiply());
-console.log(calc.divide());
-
 module.exports = Calculator;
